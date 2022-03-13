@@ -1,6 +1,6 @@
 # BowlingGame
 
-**TODO: Add description**
+Inspired by [TheBowlingGameKata][1]
 
 ## Installation
 
@@ -19,3 +19,6 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/bowling_game](https://hexdocs.pm/bowling_game).
 
+
+
+[1]: http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata
